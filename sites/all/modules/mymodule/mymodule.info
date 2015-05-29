@@ -1,0 +1,5 @@
+name = Form alter
+description = Removes subject line from comment form
+package = Epicodus Examples
+core = 7.x
+files[] = mymodule.module
